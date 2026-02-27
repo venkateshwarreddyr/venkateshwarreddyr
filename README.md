@@ -60,7 +60,6 @@
 |---|---|
 | [AgentForge](https://github.com/venkateshwarreddyr/AgentForge) | Multi-agent orchestrator — hub-and-spoke LangGraph supervisor with retry, tracing & self-healing. ECS Fargate + SQS + DynamoDB |
 | [vpilot](https://github.com/venkateshwarreddyr/vpilot) | AI browser copilot — Chrome MV3 sidepanel + LangGraph backend, real-time web UI automation via SSE & Redis Pub/Sub |
-| [cerebras-addons](https://github.com/venkateshwarreddyr/cerebras-addons) | Squeezing every drop from Cerebras inference — custom addons & optimizations |
 | [cloudrunner](https://github.com/venkateshwarreddyr/cloudrunner) | Python serverless functions on Azure, batteries included |
 
 ### 🌐 Full-Stack & Web
