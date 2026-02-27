@@ -19,6 +19,14 @@
 
 ## 🚀 About Me
 
+- 🧠 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** — Multi-agent orchestrator: hub-and-spoke LangGraph supervisor with retry, tracing & self-healing. ECS Fargate + SQS + DynamoDB.
+- 🌐 **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** — AI browser copilot: Chrome MV3 sidepanel + LangGraph backend, real-time web UI automation via SSE & Redis Pub/Sub.
+- 🧩 **[grindcode](https://github.com/venkateshwarreddyr/grindcode)** — 2000+ LeetCode solutions. 480+ DP problems. 100% graph completion. Peak contest rating ~1870.
+- 🚀 **[space-invaders](https://github.com/venkateshwarreddyr/space-invaders)** — Classic arcade shooter, reborn in Rust.
+- 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** — Pedal to the metal — a Rust racing game.
+- 🔥 **[car-hard](https://github.com/venkateshwarreddyr/car-hard)** — When racing gets real — hardcore Rust edition.
+- ⚡ **[cloudrunner](https://github.com/venkateshwarreddyr/cloudrunner)** — Python serverless functions on Azure, batteries included.
+
 - 🔭 Building **production-grade multi-agent AI systems** — orchestrators, browser copilots & serverless platforms
 - 🧠 Deep expertise in **LangChain, LangGraph, RAG pipelines, and agentic AI architectures**
 - 💻 Full-stack fluency across **Python, TypeScript, React, Rust, Go, Node.js**
