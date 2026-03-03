@@ -72,13 +72,6 @@
 | [redis-node-react](https://github.com/venkateshwarreddyr/redis-node-react) | Real-time full-stack with Redis pub/sub |
 | [react-testing-enzyme](https://github.com/venkateshwarreddyr/react-testing-enzyme) | Battle-tested React unit & integration tests |
 
-### 🎮 Rust Games & Systems
-
-| Project | Description |
-|---|---|
-| [space-invaders](https://github.com/venkateshwarreddyr/space-invaders) | Classic arcade shooter, reborn in Rust |
-| [race-car](https://github.com/venkateshwarreddyr/race-car) | Pedal to the metal — a Rust racing game |
-| [car-hard](https://github.com/venkateshwarreddyr/car-hard) | When racing gets real — hardcore Rust edition |
 
 ### 🧩 Competitive Programming
 
