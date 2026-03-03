@@ -58,17 +58,17 @@
 
 | Project | Description |
 |---|---|
-| [AgentForge](https://github.com/venkateshwarreddyr/AgentForge) | Multi-agent orchestrator — hub-and-spoke LangGraph supervisor with retry, tracing & self-healing. ECS Fargate + SQS + DynamoDB |
-| [vpilot](https://github.com/venkateshwarreddyr/vpilot) | AI browser copilot — Chrome MV3 sidepanel + LangGraph backend, real-time web UI automation via SSE & Redis Pub/Sub |
+<!-- | [AgentForge](https://github.com/venkateshwarreddyr/AgentForge) | Multi-agent orchestrator — hub-and-spoke LangGraph supervisor with retry, tracing & self-healing. ECS Fargate + SQS + DynamoDB |
+| [vpilot](https://github.com/venkateshwarreddyr/vpilot) | AI browser copilot — Chrome MV3 sidepanel + LangGraph backend, real-time web UI automation via SSE & Redis Pub/Sub | -->
 | [x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai) | Framework-agnostic runtime exposing structured, intention-based skills for AI agents — React, Svelte, Angular & Playwright adapters. TypeScript monorepo |
 
 
-### 🏗️ Full-Stack & Systems
+<!-- ### 🏗️ Full-Stack & Systems
 
 | Project | Description |
 |---|---|
 | [NebulaCanvas](https://github.com/venkateshwarreddyr/NebulaCanvas) | Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB. NestJS + React + HTML5 Canvas |
-| [blinkr](https://github.com/venkateshwarreddyr/blinkr) | Distributed URL shortener — 10K writes/sec, consistent hashing, multi-layer caching (LRU + Redis), click analytics via SQS. NestJS + DynamoDB + CDK |
+| [blinkr](https://github.com/venkateshwarreddyr/blinkr) | Distributed URL shortener — 10K writes/sec, consistent hashing, multi-layer caching (LRU + Redis), click analytics via SQS. NestJS + DynamoDB + CDK | -->
 
 ### 🧩 Competitive Programming
 
