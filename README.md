@@ -72,7 +72,7 @@
 
 | Project | Description |
 |---|---|
-| [grindcode](https://github.com/venkateshwarreddyr/grindcode) | 2000+ LeetCode solutions · 480+ DP problems · 100% graph completion · Peak contest rating ~1870 |
+| [my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions) | 2000+ LeetCode solutions · 480+ DP problems · 100% graph completion · Peak contest rating ~1870 |
 
 <!--
 
