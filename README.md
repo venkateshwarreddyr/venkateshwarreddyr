@@ -62,17 +62,6 @@
 | [vpilot](https://github.com/venkateshwarreddyr/vpilot) | AI browser copilot — Chrome MV3 sidepanel + LangGraph backend, real-time web UI automation via SSE & Redis Pub/Sub |
 
 
-### 🌐 Full-Stack & Web
-
-| Project | Description |
-|---|---|
-| [gqlite](https://github.com/venkateshwarreddyr/gqlite) | Minimal GraphQL starter, zero fluff |
-| [polyglot-react](https://github.com/venkateshwarreddyr/polyglot-react) | Multi-language React, one codebase |
-| [stagecraft](https://github.com/venkateshwarreddyr/stagecraft) | Playwright E2E testing, done right |
-| [redis-node-react](https://github.com/venkateshwarreddyr/redis-node-react) | Real-time full-stack with Redis pub/sub |
-| [react-testing-enzyme](https://github.com/venkateshwarreddyr/react-testing-enzyme) | Battle-tested React unit & integration tests |
-
-
 ### 🧩 Competitive Programming
 
 | Project | Description |
