@@ -58,8 +58,6 @@
 
 | Project | Description |
 |---|---|
-<!-- | [AgentForge](https://github.com/venkateshwarreddyr/AgentForge) | Multi-agent orchestrator — hub-and-spoke LangGraph supervisor with retry, tracing & self-healing. ECS Fargate + SQS + DynamoDB |
-| [vpilot](https://github.com/venkateshwarreddyr/vpilot) | AI browser copilot — Chrome MV3 sidepanel + LangGraph backend, real-time web UI automation via SSE & Redis Pub/Sub | -->
 | [x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai) | Framework-agnostic runtime exposing structured, intention-based skills for AI agents — React, Svelte, Angular & Playwright adapters. TypeScript monorepo |
 
 
