@@ -59,6 +59,7 @@
 | Project | Description |
 |---|---|
 | [x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai) | Framework-agnostic runtime exposing structured, intention-based skills for AI agents — React, Svelte, Angular & Playwright adapters. TypeScript monorepo |
+| [browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot) | AI browser automation copilot — Chrome extension (Svelte 5 + Vite, MV3) with streaming Node.js backend. Plan-approve-execute loop, 13 browser tools, SSE streaming, any OpenAI-compatible LLM |
 
 
 <!-- ### 🏗️ Full-Stack & Systems
