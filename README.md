@@ -62,6 +62,7 @@
 | [x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai) | Framework-agnostic runtime exposing structured, intention-based skills for AI agents — React, Svelte, Angular & Playwright adapters. TypeScript monorepo |
 | [repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai) | Paste any GitHub repo URL → AI-powered summary of purpose, architecture, tech stack & key features. Node.js + Express + OpenAI-compatible LLM API |
 | [resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher) | AI-powered resume↔job match analyzer — upload resume (PDF/DOCX) + paste JD → match score, skill gap analysis, experience comparison, interview tips & salary estimates. React + Express + OpenAI |
+| [code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator) | AI coding submission reviewer — paste problem description + candidate code to get complexity analysis, edge cases, code quality feedback, and alternative approaches. React + Monaco + Express + OpenAI |
 
 
 
