@@ -60,8 +60,8 @@
 |---|---|---|---|
 | 🌐 [browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot) | AI browser automation copilot — Chrome extension with plan-approve-execute loop, 13 browser tools, SSE streaming | Svelte 5 · Node.js · MV3 | |
 | 🧩 [x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai) | Framework-agnostic runtime exposing structured, intention-based skills for AI agents | TypeScript · React · Svelte | |
-| 📄 [repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai) | Paste any GitHub repo URL → AI-powered summary of purpose, architecture & tech stack | Node.js · Express · OpenAI | |
-| 📋 [resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher) | Upload resume + paste JD → match score, skill gap analysis, interview tips & salary estimates | React · Express · OpenAI | |
+| 📄 [repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai) | Paste any GitHub repo URL → AI-powered summary of purpose, architecture & tech stack | Next.js 16 · TypeScript · Tailwind CSS 4 · OpenAI | [▶️ Demo](https://repo-summarizer-ai.vercel.app) |
+| 📋 [resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher) | Upload resume + paste JD → match score, skill gap analysis, interview tips & salary estimates | Next.js 16 · TypeScript · Tailwind CSS 4 · OpenAI | [▶️ Demo](https://resume-job-matcher-five.vercel.app) |
 | 💻 [code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator) | AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives | React · Monaco · OpenAI | |
 | 🎨 [ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator) | Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations | Next.js · TypeScript · OpenAI | [▶️ Demo](https://ai-avatar-generator-lilac.vercel.app) |
 
@@ -76,9 +76,9 @@
 
 ### 🧩 Competitive Programming
 
-| Project | Description |
-|---|---|
-| [grindcode](https://github.com/venkateshwarreddyr/grindcode) | 2000+ LeetCode solutions · 480+ DP problems · 100% graph completion · Peak contest rating ~1870 |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| 🏆 [my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions) | 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java · Next.js dashboard with search, filters & analytics | Next.js · JavaScript · Vercel | [▶️ Dashboard](https://my-leetcode-solutions.vercel.app) |
 
 <!--
 
