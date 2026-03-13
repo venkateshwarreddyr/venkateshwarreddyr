@@ -56,14 +56,14 @@
 
 ### 🤖 AI & Agent Systems
 
-| Project | Description |
-|---|---|
-| [browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot) | AI browser automation copilot — Chrome extension (Svelte 5 + Vite, MV3) with streaming Node.js backend. Plan-approve-execute loop, 13 browser tools, SSE streaming, any OpenAI-compatible LLM |
-| [x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai) | Framework-agnostic runtime exposing structured, intention-based skills for AI agents — React, Svelte, Angular & Playwright adapters. TypeScript monorepo |
-| [repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai) | Paste any GitHub repo URL → AI-powered summary of purpose, architecture, tech stack & key features. Node.js + Express + OpenAI-compatible LLM API |
-| [resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher) | AI-powered resume↔job match analyzer — upload resume (PDF/DOCX) + paste JD → match score, skill gap analysis, experience comparison, interview tips & salary estimates. React + Express + OpenAI |
-| [code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator) | AI coding submission reviewer — paste problem description + candidate code to get complexity analysis, edge cases, code quality feedback, and alternative approaches. React + Monaco + Express + OpenAI |
-| [ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator) | AI avatar generator — upload a photo or describe your avatar, pick from 8 art styles (realistic, anime, cyberpunk, Pixar 3D, etc.), generate up to 4 variations with downloadable PNGs. Next.js 16 + TypeScript + Tailwind CSS + OpenAI gpt-image-1 |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| 🌐 [browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot) | AI browser automation copilot — Chrome extension with plan-approve-execute loop, 13 browser tools, SSE streaming | Svelte 5 · Node.js · MV3 | |
+| 🧩 [x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai) | Framework-agnostic runtime exposing structured, intention-based skills for AI agents | TypeScript · React · Svelte | |
+| 📄 [repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai) | Paste any GitHub repo URL → AI-powered summary of purpose, architecture & tech stack | Node.js · Express · OpenAI | |
+| 📋 [resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher) | Upload resume + paste JD → match score, skill gap analysis, interview tips & salary estimates | React · Express · OpenAI | |
+| 💻 [code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator) | AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives | React · Monaco · OpenAI | |
+| 🎨 [ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator) | Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations | Next.js · TypeScript · OpenAI | [▶️ Demo](https://ai-avatar-generator-lilac.vercel.app) |
 
 
 
