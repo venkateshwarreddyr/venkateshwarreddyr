@@ -32,6 +32,7 @@
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - AI browser copilot (Anthropic/OpenAI/xAI) — Python FastAPI + Azure Functions, vision analysis, Chrome extension
 - 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skillcraft)** - Voice-controlled React app — full-duplex voice AI with xAI Grok Realtime API, dynamic skill tool calling, Socket.io
 - 🔤 **[ram](https://github.com/venkateshwarreddyr/ram)** - AILang DSL compiler — PEG.js grammar → AST → IR → AI-compatible JSON context, with MCP adapter stubs and runtime executor
+- 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - One-shot AI project factory — describe a project in English → coder + reviewer agents generate a full runnable codebase with auto-review loop
 - 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
 - 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Dashboard with search, filters & analytics for 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java·
 
