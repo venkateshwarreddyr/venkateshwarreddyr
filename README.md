@@ -1,4 +1,4 @@
-# Hi, I'm Venkateshwar Reddy 👋
+# Hi, I'm Venkat 👋
 
 📍 **Hyderabad, India** | 🤖 **AI Agent Builder** | ☁️ **Senior Engineer · 8+ Years**
 
