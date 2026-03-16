@@ -37,6 +37,7 @@
 - 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** - 2D top-down racing game in Rust — rusty_engine, sprite collision, randomised obstacles, health system, OGG audio
 - 🎭 **[stagecraft](https://github.com/venkateshwarreddyr/stagecraft)** - E2E testing framework — Playwright + Cucumber BDD + ZeroStep AI natural language steps, with React demo app as test target
 - 🐹 **[web](https://github.com/venkateshwarreddyr/web)** - Go REST API — Gin framework, PostgreSQL, clean service/repo layering, env-based config
+- 💨 **[windtask](https://github.com/venkateshwarreddyr/windtask)** - React 17 posts browser — React Router v6, Tailwind CSS, context-based data fetching, container/component architecture
 - 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
 - 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Dashboard with search, filters & analytics for 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java·
 
