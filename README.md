@@ -27,12 +27,12 @@
 - 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - Upload resume + paste JD → match score, skill gap analysis, interview tips & salary estimates·
 - 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives.
 - 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations·
-- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java · Next.js dashboard with search, filters & analytics·
-- 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
-- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Distributed URL shortener at scale — 10K writes/sec, consistent hashing, multi-layer caching (LRU + Redis), 7 AWS CDK stacks
+- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Distributed URL shortener at scale — 10K writes/sec, consistent hashing, multi-layer caching, 7 AWS CDK stacks
 - 🖼️ **[NebulaCanvas](https://github.com/venkateshwarreddyr/NebulaCanvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - AI browser copilot (Anthropic/OpenAI/xAI) — Python FastAPI + Azure Functions, vision analysis, Chrome extension
 - 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skillcraft)** - Voice-controlled React app — full-duplex voice AI with xAI Grok Realtime API, dynamic skill tool calling, Socket.io
+- 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
+- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Dashboard with search, filters & analytics for 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java·
 
 ## What I'm Working On
 
