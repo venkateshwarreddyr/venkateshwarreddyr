@@ -30,9 +30,9 @@
 - 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java · Next.js dashboard with search, filters & analytics·
 - 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
 - ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Distributed URL shortener at scale — 10K writes/sec, consistent hashing, multi-layer caching (LRU + Redis), 7 AWS CDK stacks
+- 🖼️ **[NebulaCanvas](https://github.com/venkateshwarreddyr/NebulaCanvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
 
 <!-- Coming soon — uncomment once published:
-- 🖼️ **[NebulaCanvas](https://github.com/venkateshwarreddyr/NebulaCanvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - AI browser copilot (Anthropic/OpenAI/xAI) — Python FastAPI + Azure Functions, vision analysis, Chrome extension
 -->
 
