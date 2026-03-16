@@ -32,6 +32,7 @@
 - ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Distributed URL shortener at scale — 10K writes/sec, consistent hashing, multi-layer caching (LRU + Redis), 7 AWS CDK stacks
 - 🖼️ **[NebulaCanvas](https://github.com/venkateshwarreddyr/NebulaCanvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - AI browser copilot (Anthropic/OpenAI/xAI) — Python FastAPI + Azure Functions, vision analysis, Chrome extension
+- 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skillcraft)** - Voice-controlled React app — full-duplex voice AI with xAI Grok Realtime API, dynamic skill tool calling, Socket.io
 
 ## What I'm Working On
 
