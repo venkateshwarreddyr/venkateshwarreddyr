@@ -28,9 +28,9 @@
 - 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives.
 - 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations·
 - 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java · Next.js dashboard with search, filters & analytics·
+- 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
 
 <!-- Coming soon — uncomment once published:
-- 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS, distributed tracing, queue-depth autoscaling
 - ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Distributed URL shortener at scale — 10K writes/sec, consistent hashing, multi-layer caching (LRU + Redis), CDK infra
 - 🖼️ **[NebulaCanvas](https://github.com/venkateshwarreddyr/NebulaCanvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - AI browser copilot (Anthropic/OpenAI/xAI) — Python FastAPI + Azure Functions, vision analysis, Chrome extension
