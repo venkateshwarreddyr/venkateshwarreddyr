@@ -21,13 +21,13 @@
 
 ## Projects
 
-- 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - AI browser automation copilot — Chrome extension with plan-approve-execute loop, 13 browser tools, SSE streaming
-- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Framework-agnostic runtime exposing structured, intention-based skills for AI agents
-- 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - Paste any GitHub repo URL → AI-powered summary of purpose, architecture & tech stack · [▶️ Demo](https://repo-summarizer-ai.vercel.app)
-- 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - Upload resume + paste JD → match score, skill gap analysis, interview tips & salary estimates · [▶️ Demo](https://resume-job-matcher-five.vercel.app)
-- 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives
-- 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations · [▶️ Demo](https://ai-avatar-generator-lilac.vercel.app)
-- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java · Next.js dashboard with search, filters & analytics · [▶️ Dashboard](https://my-leetcode-solutions.vercel.app)
+- 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - AI browser automation copilot — Chrome extension with plan-approve-execute loop, 13 browser tools, SSE streaming.
+- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Framework-agnostic runtime exposing structured, intention-based skills for AI agents.
+- 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - Paste any GitHub repo URL → AI-powered summary of purpose, architecture & tech stack·
+- 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - Upload resume + paste JD → match score, skill gap analysis, interview tips & salary estimates·
+- 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives.
+- 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations·
+- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java · Next.js dashboard with search, filters & analytics·
 
 <!-- Coming soon — uncomment once published:
 - 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS, distributed tracing, queue-depth autoscaling
