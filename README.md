@@ -28,17 +28,17 @@
 - 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives.
 - 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations·
 - ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Distributed URL shortener at scale — 10K writes/sec, consistent hashing, multi-layer caching, 7 AWS CDK stacks
-- 🖼️ **[NebulaCanvas](https://github.com/venkateshwarreddyr/NebulaCanvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
+- 🖼️ **[nebula-canvas](https://github.com/venkateshwarreddyr/nebula-canvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - AI browser copilot (Anthropic/OpenAI/xAI) — Python FastAPI + Azure Functions, vision analysis, Chrome extension
 - 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skillcraft)** - Voice-controlled React app — full-duplex voice AI with xAI Grok Realtime API, dynamic skill tool calling, Socket.io
-- 🔤 **[ram](https://github.com/venkateshwarreddyr/ram)** - AILang DSL compiler — PEG.js grammar → AST → IR → AI-compatible JSON context, with MCP adapter stubs and runtime executor
+- 🔤 **[ai-lang](https://github.com/venkateshwarreddyr/ai-lang)** - AILang DSL compiler — PEG.js grammar → AST → IR → AI-compatible JSON context, with MCP adapter stubs and runtime executor
 - 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - One-shot AI project factory — describe a project in English → coder + reviewer agents generate a full runnable codebase with auto-review loop
 - 👾 **[space-invaders](https://github.com/venkateshwarreddyr/space-invaders)** - Terminal Space Invaders in Rust — threaded renderer, real WAV audio, delta-time movement, crossterm
 - 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** - 2D top-down racing game in Rust — rusty_engine, sprite collision, randomised obstacles, health system, OGG audio
 - 🎭 **[stagecraft](https://github.com/venkateshwarreddyr/stagecraft)** - E2E testing framework — Playwright + Cucumber BDD + ZeroStep AI natural language steps, with React demo app as test target
-- 🐹 **[web](https://github.com/venkateshwarreddyr/web)** - Go REST API — Gin framework, PostgreSQL, clean service/repo layering, env-based config
-- 💨 **[windtask](https://github.com/venkateshwarreddyr/windtask)** - React 17 posts browser — React Router v6, Tailwind CSS, context-based data fetching, container/component architecture
-- 🤖 **[AgentForge](https://github.com/venkateshwarreddyr/AgentForge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
+- 🐹 **[go-posts-api](https://github.com/venkateshwarreddyr/go-posts-api)** - Go REST API — Gin framework, PostgreSQL, clean service/repo layering, env-based config
+- 💨 **[posts-browser](https://github.com/venkateshwarreddyr/posts-browser)** - React 17 posts browser — React Router v6, Tailwind CSS, context-based data fetching, container/component architecture
+- 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
 - 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Dashboard with search, filters & analytics for 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java·
 
 ## What I'm Working On
