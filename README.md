@@ -21,25 +21,25 @@
 
 ## Projects
 
-- 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - AI browser automation copilot — Chrome extension with plan-approve-execute loop, 13 browser tools, SSE streaming.
-- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Framework-agnostic runtime exposing structured, intention-based skills for AI agents.
-- 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - Paste any GitHub repo URL → AI-powered summary of purpose, architecture & tech stack·
-- 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - Upload resume + paste JD → match score, skill gap analysis, interview tips & salary estimates·
-- 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - AI coding submission reviewer — complexity analysis, edge cases, code quality & alternatives.
-- 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Upload a photo or describe your avatar, pick from 8 art styles, generate up to 4 downloadable variations·
-- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Distributed URL shortener at scale — 10K writes/sec, consistent hashing, multi-layer caching, 7 AWS CDK stacks
-- 🖼️ **[nebula-canvas](https://github.com/venkateshwarreddyr/nebula-canvas)** - Real-time collaborative whiteboard — CRDT-based sync (Yjs), AI shape recognition, offline-first with IndexedDB
-- 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - AI browser copilot (Anthropic/OpenAI/xAI) — Python FastAPI + Azure Functions, vision analysis, Chrome extension
-- 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skillcraft)** - Voice-controlled React app — full-duplex voice AI with xAI Grok Realtime API, dynamic skill tool calling, Socket.io
-- 🔤 **[ai-lang](https://github.com/venkateshwarreddyr/ai-lang)** - AILang DSL compiler — PEG.js grammar → AST → IR → AI-compatible JSON context, with MCP adapter stubs and runtime executor
-- 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - One-shot AI project factory — describe a project in English → coder + reviewer agents generate a full runnable codebase with auto-review loop
-- 👾 **[space-invaders](https://github.com/venkateshwarreddyr/space-invaders)** - Terminal Space Invaders in Rust — threaded renderer, real WAV audio, delta-time movement, crossterm
-- 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** - 2D top-down racing game in Rust — rusty_engine, sprite collision, randomised obstacles, health system, OGG audio
-- 🎭 **[stagecraft](https://github.com/venkateshwarreddyr/stagecraft)** - E2E testing framework — Playwright + Cucumber BDD + ZeroStep AI natural language steps, with React demo app as test target
-- 🐹 **[go-posts-api](https://github.com/venkateshwarreddyr/go-posts-api)** - Go REST API — Gin framework, PostgreSQL, clean service/repo layering, env-based config
-- 💨 **[posts-browser](https://github.com/venkateshwarreddyr/posts-browser)** - React 17 posts browser — React Router v6, Tailwind CSS, context-based data fetching, container/component architecture
-- 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Production multi-agent orchestration platform — NestJS + LangGraph.js + AWS (SQS, DynamoDB, ECS), supervisor routing, cost tracking, OpenTelemetry observability
-- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Dashboard with search, filters & analytics for 2000+ LeetCode solutions in JS, Rust, SQL, C++, Go, Python & Java·
+- 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - Automate any browser task in plain English — Chrome extension, plan-approve-execute loop, 13 tools
+- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Give AI agents reusable, structured skills — framework-agnostic runtime, intention-based routing
+- 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - Paste any GitHub URL, get a clear summary of purpose, architecture & tech stack
+- 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - Upload resume + job description → match score, skill gaps, interview tips & salary estimate
+- 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - Review any coding submission with AI — complexity, edge cases, quality & alternatives
+- 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Generate your avatar in 8 art styles — upload a photo or describe it, download up to 4 variations
+- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Shorten URLs at 10K writes/sec — consistent hashing, multi-layer caching, 7 AWS CDK stacks
+- 🖼️ **[nebula-canvas](https://github.com/venkateshwarreddyr/nebula-canvas)** - Draw and collaborate in real time — CRDT sync (Yjs), AI shape recognition, offline-first
+- 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - Control your browser with natural language — vision AI, Chrome extension, FastAPI + Azure Functions
+- 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skillcraft)** - Talk to your app and watch it act — full-duplex voice AI, xAI Grok Realtime, dynamic skill tool calling
+- 🔤 **[ai-lang](https://github.com/venkateshwarreddyr/ai-lang)** - Write AI prompts as structured code — DSL compiler, PEG.js → AST → AI-compatible JSON
+- 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - Describe a project, get runnable code — coder + reviewer agents, auto-review loop
+- 👾 **[space-invaders](https://github.com/venkateshwarreddyr/space-invaders)** - Play Space Invaders in your terminal — threaded renderer, WAV audio, Rust + crossterm
+- 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** - Race through randomised obstacles in 2D — sprite collision, health system, Rust + rusty_engine
+- 🎭 **[stagecraft](https://github.com/venkateshwarreddyr/stagecraft)** - Write E2E tests in plain English — Playwright + Cucumber BDD + ZeroStep AI, React demo included
+- 🐹 **[go-posts-api](https://github.com/venkateshwarreddyr/go-posts-api)** - CRUD REST API for posts and users — Go, Gin, PostgreSQL, clean service/repo layers
+- 💨 **[posts-browser](https://github.com/venkateshwarreddyr/posts-browser)** - Browse posts, users and comments from an API — React 17, Router v6, Tailwind CSS
+- 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Orchestrate AI agents at production scale — supervisor routing, cost tracking, NestJS + LangGraph.js + AWS
+- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Search 2000+ LeetCode solutions with filters & analytics — JS, Rust, SQL, C++, Go, Python, Java
 
 ## What I'm Working On
 
