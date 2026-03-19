@@ -28,10 +28,10 @@
 - 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - Review any coding submission with AI - complexity, edge cases, quality & alternatives
 - 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - Paste any GitHub URL, get a clear summary of purpose, architecture & tech stack
 - 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Generate your avatar in 8 art styles - upload a photo or describe it, download up to 4 variations
-- 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skillcraft)** - Talk to your app and watch it act - full-duplex voice AI, xAI Grok Realtime, dynamic skill tool calling
+- 🎤 **[skillcraft](https://github.com/venkateshwarreddyr/skill-craft)** - Talk to your app and watch it act - full-duplex voice AI, xAI Grok Realtime, dynamic skill tool calling
 - 🔤 **[ai-lang](https://github.com/venkateshwarreddyr/ai-lang)** - Write AI prompts as structured code - DSL compiler, PEG.js → AST → AI-compatible JSON
 - ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Shorten URLs at 10K writes/sec - consistent hashing, multi-layer caching, 7 AWS CDK stacks
-- 🎭 **[stagecraft](https://github.com/venkateshwarreddyr/stagecraft)** - Write E2E tests in plain English - Playwright + Cucumber BDD + ZeroStep AI, React demo included
+- 🎭 **[stagecraft](https://github.com/venkateshwarreddyr/stage-craft)** - Write E2E tests in plain English - Playwright + Cucumber BDD + ZeroStep AI, React demo included
 - 🖼️ **[nebula-canvas](https://github.com/venkateshwarreddyr/nebula-canvas)** - Draw and collaborate in real time - CRDT sync (Yjs), AI shape recognition, offline-first
 - 🐹 **[go-posts-api](https://github.com/venkateshwarreddyr/go-posts-api)** - CRUD REST API for posts and users - Go, Gin, PostgreSQL, clean service/repo layers
 - 💨 **[posts-browser](https://github.com/venkateshwarreddyr/posts-browser)** - Browse posts, users and comments from an API - React 17, Router v6, Tailwind CSS
