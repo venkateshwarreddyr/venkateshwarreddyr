@@ -1,92 +1,95 @@
 # Hi, I'm Venkat 👋
 
-📍 **Hyderabad, India** | 🤖 **AI Agent Builder** | ☁️ **Senior Engineer · 8+ Years**
+📍 **Hyderabad, India** | ☁️ **AWS & AI Architect** | 🤖 **Agentic AI Systems** | **8+ Years**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-> Building production-grade multi-agent AI systems - orchestrators, browser copilots & serverless platforms. Deep in LangChain, LangGraph, RAG pipelines, and agentic AI architectures. 🏆 2000+ LeetCode problems solved.
+> Designing production-grade AWS architectures and multi-agent AI systems — event-driven pipelines, serverless orchestration, RAG platforms, and agentic runtimes. 7 AWS CDK stacks shipped. 🏆 2000+ LeetCode problems solved.
 
 ## Projects
 
-- 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - Automate any browser task in plain English - Chrome extension, plan-approve-execute loop, 13 tools
-- 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - Control your browser with natural language - vision AI, Chrome extension, FastAPI + Azure Functions
-- 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Orchestrate AI agents at production scale - supervisor routing, cost tracking, NestJS + LangGraph.js + AWS
-- 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - Describe a project, get runnable code - coder + reviewer agents, auto-review loop
-- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Give AI agents reusable, structured skills - framework-agnostic runtime, intention-based routing · [npm core](https://www.npmjs.com/package/@x-skills-for-ai/core) · [npm react](https://www.npmjs.com/package/@x-skills-for-ai/react)
-- 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - Upload resume + job description → match score, skill gaps, interview tips & salary estimate
-- 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - Review any coding submission with AI - complexity, edge cases, quality & alternatives
-- 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - Paste any GitHub URL, get a clear summary of purpose, architecture & tech stack
-- 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Generate your avatar in 8 art styles - upload a photo or describe it, download up to 4 variations
-- 🎤 **[skill-craft](https://github.com/venkateshwarreddyr/skill-craft)** - Talk to your app and watch it act - full-duplex voice AI, xAI Grok Realtime, dynamic skill tool calling
-- 🔤 **[ai-lang](https://github.com/venkateshwarreddyr/ai-lang)** - Write AI prompts as structured code - DSL compiler, PEG.js → AST → AI-compatible JSON
-- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - Shorten URLs at 10K writes/sec - consistent hashing, multi-layer caching, 7 AWS CDK stacks
-- 🎭 **[stage-craft](https://github.com/venkateshwarreddyr/stage-craft)** - Write E2E tests in plain English - Playwright + Cucumber BDD + ZeroStep AI, React demo included
-- 🖼️ **[nebula-canvas](https://github.com/venkateshwarreddyr/nebula-canvas)** - Draw and collaborate in real time - CRDT sync (Yjs), AI shape recognition, offline-first
-- 🐹 **[go-posts-api](https://github.com/venkateshwarreddyr/go-posts-api)** - CRUD REST API for posts and users - Go, Gin, PostgreSQL, clean service/repo layers
-- 💨 **[posts-browser](https://github.com/venkateshwarreddyr/posts-browser)** - Browse posts, users and comments from an API - React 17, Router v6, Tailwind CSS
-- 👾 **[space-invaders](https://github.com/venkateshwarreddyr/space-invaders)** - Play Space Invaders in your terminal - threaded renderer, WAV audio, Rust + crossterm
-- 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** - Race through randomised obstacles in 2D - sprite collision, health system, Rust + rusty_engine
-- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Search 2000+ LeetCode solutions with filters & analytics - JS, Rust, SQL, C++, Go, Python, Java
+- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - High-throughput URL shortener at 10K writes/sec — consistent hashing, multi-layer caching, **7 AWS CDK stacks** (Lambda, DynamoDB, ElastiCache, API Gateway, CloudFront)
+- 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Production multi-agent platform — supervisor routing, cost tracking, **AWS ECS + SQS + DynamoDB**, NestJS + LangGraph.js
+- 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - Agentic browser automation — plan-approve-execute loop, **Azure Functions + Redis Pub/Sub** SSE backend, Chrome MV3
+- 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - Vision AI browser control — HTML-to-Markdown screen analysis, **Azure Functions** serverless backend, FastAPI
+- 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - Multi-agent code generation — coder + reviewer agents, auto-review loop, LangGraph orchestration
+- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Reusable AI agent skill runtime — framework-agnostic, intention-based routing · [npm core](https://www.npmjs.com/package/@x-skills-for-ai/core) · [npm react](https://www.npmjs.com/package/@x-skills-for-ai/react)
+- 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - RAG-powered resume analysis — match score, skill gaps, interview tips & salary estimate
+- 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - AI code review pipeline — complexity, edge cases, quality & alternatives
+- 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - GitHub repo intelligence — purpose, architecture & tech stack via LLM pipeline
+- 🎨 **[ai-avatar-generator](https://github.com/venkateshwarreddyr/ai-avatar-generator)** - Multi-model image generation — 8 art styles, serverless inference, 4 variation outputs
+- 🎤 **[skill-craft](https://github.com/venkateshwarreddyr/skill-craft)** - Full-duplex voice AI — xAI Grok Realtime, dynamic skill tool calling, WebSocket streaming
+- 🔤 **[ai-lang](https://github.com/venkateshwarreddyr/ai-lang)** - AI prompt DSL compiler — PEG.js → AST → AI-compatible JSON structured output
+- 🎭 **[stage-craft](https://github.com/venkateshwarreddyr/stage-craft)** - AI-driven E2E testing — Playwright + Cucumber BDD + ZeroStep AI
+- 🖼️ **[nebula-canvas](https://github.com/venkateshwarreddyr/nebula-canvas)** - Real-time collaborative canvas — CRDT sync (Yjs), AI shape recognition, offline-first
+- 🐹 **[go-posts-api](https://github.com/venkateshwarreddyr/go-posts-api)** - REST API — Go, Gin, PostgreSQL, clean service/repo layers
+- 💨 **[posts-browser](https://github.com/venkateshwarreddyr/posts-browser)** - React SPA — Router v6, Tailwind CSS
+- 👾 **[space-invaders](https://github.com/venkateshwarreddyr/space-invaders)** - Terminal game — threaded renderer, WAV audio, Rust + crossterm
+- 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** - 2D racing game — sprite collision, health system, Rust + rusty_engine
+- 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - 2000+ solutions with filters & analytics — JS, Rust, SQL, C++, Go, Python, Java
 
 ## Achievements
 
 |                                                                       |                                                           |                                         |
 | --------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------- |
-| 🏆 **2000+** LeetCode Problems · Peak Rating **1800+**                | 🧩 **480+** Dynamic Programming Problems                  | 🕸️ **100%** Graph & Union-Find Problems |
-| 🥇 **1st Place** — Tarang Fest Programming Contest, Vignan University | 📦 **npm** Published — `@x-skills-for-ai/core` + `/react` | ☁️ **AWS + Azure + GCP** Multi-Cloud    |
+| ☁️ **7 AWS CDK Stacks** — Lambda · DynamoDB · ECS · S3 · CloudFront  | 🤖 **Multi-Agent AI** — Supervisor routing, RAG, MCP, LangGraph | 🕸️ **Multi-Cloud** — AWS + Azure + GCP |
+| 🏆 **2000+** LeetCode Problems · Peak Rating **1800+**                | 🧩 **480+** Dynamic Programming Problems                  | 📦 **npm** Published — `@x-skills-for-ai` |
 
 ## Skills
 
-| Area                | Technologies                                                                                                       |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **AI / ML**         | OpenAI GPT-5.2, LangChain, LangGraph, RAG, MCP, Multi-Agent Systems, OpenAI Realtime, Gemini Live API, Vertex AI   |
-| **Frontend**        | React.js, TypeScript, Redux/Redux-Saga, Angular 4/7, Tailwind CSS, Material UI, Framer Motion                      |
-| **Backend**         | Node.js, Express.js, Python, Flask, RESTful APIs, Microservices, Server-Sent Events (SSE)                          |
-| **Cloud & DevOps**  | AWS (EC2, Lambda, ECS, S3, DynamoDB, RDS), Azure (Functions, Durable, Service Bus), GCP, Docker, CI/CD             |
-| **Databases**       | PostgreSQL, MySQL, MongoDB, SQLite, Redis, Prisma ORM                                                              |
-| **Languages**       | JavaScript, TypeScript, Python, Java, Rust, Go, C, C++                                                             |
-| **Algorithms & DS** | Dynamic Programming (480+), Graphs & Trees (100%), Binary Search, BFS/DFS, Union-Find, Segment Trees, Backtracking |
-| **Testing & Tools** | Jest, Playwright, Zod, Git, Chrome Extensions (MV3), JSForce / Salesforce API                                      |
+| Area                     | Technologies                                                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **AWS Architecture**     | Lambda, ECS Fargate, EC2, S3, DynamoDB, RDS, SQS, SNS, API Gateway, CloudFront, ElastiCache, CDK, IAM, VPC         |
+| **AI / ML Architecture** | Multi-Agent Systems (LangGraph, Supervisor pattern), RAG pipelines, MCP, OpenAI GPT-4o, Gemini Live, Vertex AI      |
+| **LLM & Agentic AI**     | LangChain, LangGraph, Tool/Function Calling, Structured Outputs, SSE Streaming, HITL Workflows, Prompt Engineering  |
+| **Cloud & Serverless**   | Azure Functions, Azure Durable Functions, Azure Service Bus, GCP, Docker, CI/CD, Event-Driven Architecture          |
+| **Backend**              | Node.js, Python, Express.js, NestJS, Flask, FastAPI, Microservices, RESTful APIs                                    |
+| **Databases**            | DynamoDB, PostgreSQL, MySQL, MongoDB, Redis, SQLite, Prisma ORM, PGVector                                           |
+| **Frontend**             | React.js, TypeScript, Redux/Redux-Saga, Angular 4/7, Tailwind CSS, Material UI                                      |
+| **Languages**            | TypeScript, Python, JavaScript, Go, Rust, Java, C, C++                                                              |
+| **Algorithms & DS**      | Dynamic Programming (480+), Graphs & Trees (100%), Binary Search, BFS/DFS, Union-Find, Segment Trees               |
 
 ## Experience
 
-**RealPage India** · Developer III · _Apr 2024 – Present_
+**RealPage India** · Software Engineer III · _Apr 2024 – Present_
 
-- Agentic browser-copilot: Chrome MV3 + LangGraph Azure Functions backend, SSE + Redis Pub/Sub for real-time HITL automation
-- Voice Bot with Screenshare: OpenAI Realtime + HTML-to-Markdown screen analysis for proactive UI guidance
-- Multi-Agent Automation Platform: "script factory" that autonomously analyzes websites and generates automation scripts
-- RAG-powered legal document generation, Salesforce MCP toolkit, Contract Intelligence Platform (multi-cloud AI)
+- **AI Architecture**: Designed multi-cloud AI platform (AWS + Azure) for contract intelligence — risk signal extraction from legal contracts and SOC reports
+- **Serverless Orchestration**: Built supervisor-pattern multi-agent routing layer on Azure Functions with Redis Pub/Sub for real-time HITL browser automation (SSE)
+- **RAG Pipeline**: Engineered legal document generation system mapping dynamic placeholders to structured knowledge bases via vector search
+- **AI Voice Platform**: Integrated Google Gemini Live + MCP with HTML-to-Markdown screen analysis for proactive, low-latency UI guidance
+- **Multi-Agent Factory**: Architected autonomous script generation system — analyzes websites and produces web automation scripts end-to-end
+- **CRM Automation**: Delivered Salesforce AI toolkit using Model Context Protocol (MCP) for case, contact, and opportunity workflows
 
 **SyrenCloud** · Lead Software Engineer · _Dec 2023 – Mar 2024_
 
-- Supply Chain KPI dashboard with Recharts — demoed to Coca-Cola
+- Supply Chain KPI dashboard — demoed to Coca-Cola
 
 **BNMA.INC** · Senior Software Engineer · _Oct 2022 – Sep 2023_
 
-- Juno Diagnostics: SaaS prenatal healthcare platform — React + TypeScript + AWS Cognito + S3
+- **AWS Infrastructure**: Architected secure prenatal healthcare SaaS (Juno Diagnostics) on AWS — Cognito for auth, S3 for data storage, React + TypeScript frontend
 
 **iSpace Software Solutions** · Software Engineer · _Mar 2021 – Sep 2022_
 
-- KornFerry Advance: enterprise SaaS for professional development — custom logging, super admin delegation, large dataset rendering
+- KornFerry Advance enterprise SaaS — large dataset rendering optimization, custom logging, super admin delegation
 
 **CREATECOMM TECH** · Software Engineer · _Jun 2019 – Feb 2021_
 
-- Intercity food delivery platform (e-commerce + admin) with microservices backend, built with CXO team
+- Intercity food delivery platform — microservices backend, RESTful APIs, built with CXO team from inception to deployment
 
 **Pixel-Brook Software Solutions** · Software Engineer · _May 2018 – Jun 2019_
 
-- 24SkinClinic SaaS (Angular + Python/Flask), StatsNCharts hybrid DB for time-series data, IMF data ETL pipelines
+- 24SkinClinic SaaS (Angular + Python/Flask), hybrid DB architecture for time-series data, IMF data ETL pipelines on GCP
 
 ## Education
 
@@ -94,14 +97,14 @@
 
 ## Domain Expertise
 
-Real Estate Tech, Healthcare / Pharma, E-commerce ,Enterprise SaaS
+Real Estate Tech · Healthcare / Pharma · E-commerce · Enterprise SaaS
 
 ## What I'm Working On
 
-- 🤖 **Multi-agent AI systems** - orchestrators, LLM pipelines, agentic architectures with LangChain & LangGraph
-- ☁️ **Cloud-native backends** - AWS (ECS Fargate, SQS, DynamoDB) and Azure serverless
-- 💻 **Full-stack products** - React, Node.js, TypeScript, Python
-- ⚡ **Systems programming** - Rust and Go for performance-critical applications
+- ☁️ **AWS architectures** — ECS Fargate, SQS, DynamoDB, Lambda, CDK infrastructure-as-code
+- 🤖 **Agentic AI platforms** — multi-agent orchestration, LangGraph supervisor patterns, RAG pipelines
+- 🔗 **Event-driven systems** — queue-based pipelines, Redis Pub/Sub, SSE, real-time AI backends
+- 🧠 **LLM integrations** — MCP, structured outputs, tool calling, multi-cloud AI strategies
 
 ## Connect
 
