@@ -94,6 +94,7 @@
 ## Education
 
 🎓 **B.Tech, Computer Science** — Vignan University, 2014–2018
+🎓 **AI, AWS, Advanced DSA** — TwoAnswers Leadership Career Coaching Platform, 2022–Present
 
 ## Domain Expertise
 
