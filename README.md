@@ -49,7 +49,7 @@
 ## Technical Skills
 
 - Cloud Architecture
-  - AWS (Lambda, ECS Fargate, EC2, S3, DynamoDB, RDS, SQS, SNS, API Gateway, CloudFront, ElastiCache, CDK, IAM, VPC) · Azure (Functions, Durable Functions, Service Bus) · GCP · Event-Driven & Serverless Architecture
+  - Azure (Functions, Durable Functions, Service Bus, PubSub, Blob Storage) · AWS (Lambda, ECS Fargate, EC2, S3, DynamoDB, RDS, SQS, SNS, API Gateway, CloudFront, ElastiCache, CDK, IAM, VPC) · GCP · Event-Driven & Serverless Architecture
 - AI / ML Architecture
   - Multi-Agent Orchestration (LangGraph, Supervisor Pattern) · RAG Pipelines · MCP · OpenAI GPT-4o · Gemini Live · Vertex AI · HITL Workflows · Multi-Cloud AI Strategy
 - LLM & Agentic AI
