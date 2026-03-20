@@ -23,7 +23,7 @@
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - Control your browser with natural language - vision AI, Chrome extension, FastAPI + Azure Functions
 - 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Orchestrate AI agents at production scale - supervisor routing, cost tracking, NestJS + LangGraph.js + AWS
 - 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - Describe a project, get runnable code - coder + reviewer agents, auto-review loop
-- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Give AI agents reusable, structured skills - framework-agnostic runtime, intention-based routing
+- 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Give AI agents reusable, structured skills - framework-agnostic runtime, intention-based routing · [npm core](https://www.npmjs.com/package/@x-skills-for-ai/core) · [npm react](https://www.npmjs.com/package/@x-skills-for-ai/react)
 - 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - Upload resume + job description → match score, skill gaps, interview tips & salary estimate
 - 💻 **[code-interview-evaluator](https://github.com/venkateshwarreddyr/code-interview-evaluator)** - Review any coding submission with AI - complexity, edge cases, quality & alternatives
 - 📄 **[repo-summarizer-ai](https://github.com/venkateshwarreddyr/repo-summarizer-ai)** - Paste any GitHub URL, get a clear summary of purpose, architecture & tech stack
@@ -38,6 +38,63 @@
 - 👾 **[space-invaders](https://github.com/venkateshwarreddyr/space-invaders)** - Play Space Invaders in your terminal - threaded renderer, WAV audio, Rust + crossterm
 - 🏎️ **[race-car](https://github.com/venkateshwarreddyr/race-car)** - Race through randomised obstacles in 2D - sprite collision, health system, Rust + rusty_engine
 - 🏆 **[my-leetcode-solutions](https://github.com/venkateshwarreddyr/my-leetcode-solutions)** - Search 2000+ LeetCode solutions with filters & analytics - JS, Rust, SQL, C++, Go, Python, Java
+
+## Achievements
+
+|                                                                       |                                                           |                                         |
+| --------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------- |
+| 🏆 **2000+** LeetCode Problems · Peak Rating **1800+**                | 🧩 **480+** Dynamic Programming Problems                  | 🕸️ **100%** Graph & Union-Find Problems |
+| 🥇 **1st Place** — Tarang Fest Programming Contest, Vignan University | 📦 **npm** Published — `@x-skills-for-ai/core` + `/react` | ☁️ **AWS + Azure + GCP** Multi-Cloud    |
+
+## Skills
+
+| Area                | Technologies                                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **AI / ML**         | OpenAI GPT-5.2, LangChain, LangGraph, RAG, MCP, Multi-Agent Systems, OpenAI Realtime, Gemini Live API, Vertex AI   |
+| **Frontend**        | React.js, TypeScript, Redux/Redux-Saga, Angular 4/7, Tailwind CSS, Material UI, Framer Motion                      |
+| **Backend**         | Node.js, Express.js, Python, Flask, RESTful APIs, Microservices, Server-Sent Events (SSE)                          |
+| **Cloud & DevOps**  | AWS (EC2, Lambda, ECS, S3, DynamoDB, RDS), Azure (Functions, Durable, Service Bus), GCP, Docker, CI/CD             |
+| **Databases**       | PostgreSQL, MySQL, MongoDB, SQLite, Redis, Prisma ORM                                                              |
+| **Languages**       | JavaScript, TypeScript, Python, Java, Rust, Go, C, C++                                                             |
+| **Algorithms & DS** | Dynamic Programming (480+), Graphs & Trees (100%), Binary Search, BFS/DFS, Union-Find, Segment Trees, Backtracking |
+| **Testing & Tools** | Jest, Playwright, Zod, Git, Chrome Extensions (MV3), JSForce / Salesforce API                                      |
+
+## Experience
+
+**RealPage India** · Developer III · _Apr 2024 – Present_
+
+- Agentic browser-copilot: Chrome MV3 + LangGraph Azure Functions backend, SSE + Redis Pub/Sub for real-time HITL automation
+- Voice Bot with Screenshare: OpenAI Realtime + HTML-to-Markdown screen analysis for proactive UI guidance
+- Multi-Agent Automation Platform: "script factory" that autonomously analyzes websites and generates automation scripts
+- RAG-powered legal document generation, Salesforce MCP toolkit, Contract Intelligence Platform (multi-cloud AI)
+
+**SyrenCloud** · Lead Software Engineer · _Dec 2023 – Mar 2024_
+
+- Supply Chain KPI dashboard with Recharts — demoed to Coca-Cola
+
+**BNMA.INC** · Senior Software Engineer · _Oct 2022 – Sep 2023_
+
+- Juno Diagnostics: SaaS prenatal healthcare platform — React + TypeScript + AWS Cognito + S3
+
+**iSpace Software Solutions** · Software Engineer · _Mar 2021 – Sep 2022_
+
+- KornFerry Advance: enterprise SaaS for professional development — custom logging, super admin delegation, large dataset rendering
+
+**CREATECOMM TECH** · Software Engineer · _Jun 2019 – Feb 2021_
+
+- Intercity food delivery platform (e-commerce + admin) with microservices backend, built with CXO team
+
+**Pixel-Brook Software Solutions** · Software Engineer · _May 2018 – Jun 2019_
+
+- 24SkinClinic SaaS (Angular + Python/Flask), StatsNCharts hybrid DB for time-series data, IMF data ETL pipelines
+
+## Education
+
+🎓 **B.Tech, Computer Science** — Vignan University, 2014–2018
+
+## Domain Expertise
+
+Real Estate Tech, Healthcare / Pharma, E-commerce ,Enterprise SaaS
 
 ## What I'm Working On
 
