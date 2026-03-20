@@ -41,24 +41,32 @@
 
 ## Achievements
 
-|                                                                       |                                                           |                                         |
-| --------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------- |
-| ☁️ **7 AWS CDK Stacks** — Lambda · DynamoDB · ECS · S3 · CloudFront  | 🤖 **Multi-Agent AI** — Supervisor routing, RAG, MCP, LangGraph | 🕸️ **Multi-Cloud** — AWS + Azure + GCP |
-| 🏆 **2000+** LeetCode Problems · Peak Rating **1800+**                | 🧩 **480+** Dynamic Programming Problems                  | 📦 **npm** Published — `@x-skills-for-ai` |
+|                                                                     |                                                                 |                                           |
+| ------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------- |
+| ☁️ **7 AWS CDK Stacks** — Lambda · DynamoDB · ECS · S3 · CloudFront | 🤖 **Multi-Agent AI** — Supervisor routing, RAG, MCP, LangGraph | 🕸️ **Multi-Cloud** — AWS + Azure + GCP    |
+| 🏆 **2000+** LeetCode Problems · Peak Rating **1800+**              | 🧩 **480+** Dynamic Programming Problems                        | 📦 **npm** Published — `@x-skills-for-ai` |
 
-## Skills
+## Technical Skills
 
-| Area                     | Technologies                                                                                                        |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| **AWS Architecture**     | Lambda, ECS Fargate, EC2, S3, DynamoDB, RDS, SQS, SNS, API Gateway, CloudFront, ElastiCache, CDK, IAM, VPC         |
-| **AI / ML Architecture** | Multi-Agent Systems (LangGraph, Supervisor pattern), RAG pipelines, MCP, OpenAI GPT-4o, Gemini Live, Vertex AI      |
-| **LLM & Agentic AI**     | LangChain, LangGraph, Tool/Function Calling, Structured Outputs, SSE Streaming, HITL Workflows, Prompt Engineering  |
-| **Cloud & Serverless**   | Azure Functions, Azure Durable Functions, Azure Service Bus, GCP, Docker, CI/CD, Event-Driven Architecture          |
-| **Backend**              | Node.js, Python, Express.js, NestJS, Flask, FastAPI, Microservices, RESTful APIs                                    |
-| **Databases**            | DynamoDB, PostgreSQL, MySQL, MongoDB, Redis, SQLite, Prisma ORM, PGVector                                           |
-| **Frontend**             | React.js, TypeScript, Redux/Redux-Saga, Angular 4/7, Tailwind CSS, Material UI                                      |
-| **Languages**            | TypeScript, Python, JavaScript, Go, Rust, Java, C, C++                                                              |
-| **Algorithms & DS**      | Dynamic Programming (480+), Graphs & Trees (100%), Binary Search, BFS/DFS, Union-Find, Segment Trees               |
+🔹 Cloud Architecture
+AWS (Lambda, ECS Fargate, EC2, S3, DynamoDB, RDS, SQS, SNS, API Gateway, CloudFront, ElastiCache, CDK, IAM, VPC) · Azure (Functions, Durable Functions, Service Bus) · GCP · Event-Driven & Serverless Architecture
+🔹 AI / ML Architecture
+Multi-Agent Orchestration (LangGraph, Supervisor Pattern) · RAG Pipelines · MCP · OpenAI GPT-4o · Gemini Live · Vertex AI · HITL Workflows · Multi-Cloud AI Strategy
+🔹 LLM & Agentic AI
+LangChain · LangGraph · Tool/Function Calling · Structured Outputs · SSE Streaming · Prompt Engineering · PGVector · Vector Search
+🔹 Backend & Systems
+Node.js · Python · Express · NestJS · Flask · FastAPI · Microservices · RESTful APIs · Docker · CI/CD · Redis Pub/Sub · Queue-Based Pipelines
+🔹 Databases
+DynamoDB · PostgreSQL · MySQL · MongoDB · Redis · SQLite · Prisma ORM · PGVector
+🔹 Frontend
+React.js · TypeScript · Redux / Redux-Saga · Angular 4/7 · Tailwind CSS · Material UI
+🔹 Languages
+TypeScript · Python · JavaScript · Go · Rust · Java · C · C++
+🔹 DSA & System Design
+Dynamic Programming (480+) · Graphs & Trees (100%) · Binary Search · BFS/DFS · Union-Find · Segment Trees · System Design
+
+
+
 
 ## Experience
 
