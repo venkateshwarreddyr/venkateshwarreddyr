@@ -48,25 +48,22 @@
 
 ## Technical Skills
 
-🔹 Cloud Architecture
-AWS (Lambda, ECS Fargate, EC2, S3, DynamoDB, RDS, SQS, SNS, API Gateway, CloudFront, ElastiCache, CDK, IAM, VPC) · Azure (Functions, Durable Functions, Service Bus) · GCP · Event-Driven & Serverless Architecture
-🔹 AI / ML Architecture
-Multi-Agent Orchestration (LangGraph, Supervisor Pattern) · RAG Pipelines · MCP · OpenAI GPT-4o · Gemini Live · Vertex AI · HITL Workflows · Multi-Cloud AI Strategy
-🔹 LLM & Agentic AI
-LangChain · LangGraph · Tool/Function Calling · Structured Outputs · SSE Streaming · Prompt Engineering · PGVector · Vector Search
-🔹 Backend & Systems
-Node.js · Python · Express · NestJS · Flask · FastAPI · Microservices · RESTful APIs · Docker · CI/CD · Redis Pub/Sub · Queue-Based Pipelines
-🔹 Databases
-DynamoDB · PostgreSQL · MySQL · MongoDB · Redis · SQLite · Prisma ORM · PGVector
-🔹 Frontend
-React.js · TypeScript · Redux / Redux-Saga · Angular 4/7 · Tailwind CSS · Material UI
-🔹 Languages
-TypeScript · Python · JavaScript · Go · Rust · Java · C · C++
-🔹 DSA & System Design
-Dynamic Programming (480+) · Graphs & Trees (100%) · Binary Search · BFS/DFS · Union-Find · Segment Trees · System Design
-
-
-
+- Cloud Architecture
+  - AWS (Lambda, ECS Fargate, EC2, S3, DynamoDB, RDS, SQS, SNS, API Gateway, CloudFront, ElastiCache, CDK, IAM, VPC) · Azure (Functions, Durable Functions, Service Bus) · GCP · Event-Driven & Serverless Architecture
+- AI / ML Architecture
+  - Multi-Agent Orchestration (LangGraph, Supervisor Pattern) · RAG Pipelines · MCP · OpenAI GPT-4o · Gemini Live · Vertex AI · HITL Workflows · Multi-Cloud AI Strategy
+- LLM & Agentic AI
+  - LangChain · LangGraph · Tool/Function Calling · Structured Outputs · SSE Streaming · Prompt Engineering · PGVector · Vector Search
+- Backend & Systems
+  - Node.js · Python · Express · NestJS · Flask · FastAPI · Microservices · RESTful APIs · Docker · CI/CD · Redis Pub/Sub · Queue-Based Pipelines
+- Databases
+  - DynamoDB · PostgreSQL · MySQL · MongoDB · Redis · SQLite · Prisma ORM · PGVector
+- Frontend
+  - React.js · TypeScript · Redux / Redux-Saga · Angular 4/7 · Tailwind CSS · Material UI
+- Languages
+  - TypeScript · Python · JavaScript · Go · Rust · Java · C · C++
+- DSA & System Design
+  - Dynamic Programming (480+) · Graphs & Trees (100%) · Binary Search · BFS/DFS · Union-Find · Segment Trees · System Design
 
 ## Experience
 
