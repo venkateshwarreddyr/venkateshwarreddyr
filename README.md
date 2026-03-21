@@ -1,6 +1,6 @@
 # Hi, I'm Venkat 👋
 
-📍 **Hyderabad, India** | ☁️ **AWS & AI Architect** | 🤖 **Agentic AI Systems** | **8+ Years**
+📍 **Hyderabad, India** | ☁️ **Azure / AWS & AI Architect** | 🤖 **Agentic AI Systems** | **8+ Years**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -15,7 +15,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-> Designing production-grade AWS architectures and multi-agent AI systems - event-driven pipelines, serverless orchestration, RAG platforms, and agentic runtimes. 7 AWS CDK stacks shipped. 🏆 2000+ LeetCode problems solved.
+> Designing production-grade Azure/AWS architectures and multi-agent AI systems - event-driven pipelines, serverless orchestration, RAG platforms, and agentic runtimes. 7 AWS CDK stacks shipped. 🏆 2000+ LeetCode problems solved.
 
 ## Projects
 
