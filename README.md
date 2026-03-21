@@ -19,7 +19,7 @@
 
 ## Projects
 
-- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - High-throughput URL shortener at 10K writes/sec - consistent hashing, multi-layer caching, **7 AWS CDK stacks** (Lambda, DynamoDB, ElastiCache, API Gateway, CloudFront)
+- ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - High-throughput URL shortener at 10K writes/sec - consistent hashing, multi-layer caching, **7 AWS CDK stacks** (Lambda, DynamoDB)
 - 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Production multi-agent platform - supervisor routing, cost tracking, **AWS ECS + SQS + DynamoDB**, NestJS + LangGraph.js
 - 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - Agentic browser automation - plan-approve-execute loop, **Azure Functions + Redis Pub/Sub** SSE backend, Chrome MV3
 - 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - Vision AI browser control - HTML-to-Markdown screen analysis, **Azure Functions** serverless backend, FastAPI
