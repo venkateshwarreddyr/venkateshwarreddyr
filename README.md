@@ -22,7 +22,6 @@
 - ⚡ **[blinkr](https://github.com/venkateshwarreddyr/blinkr)** - High-throughput URL shortener at 10K writes/sec - consistent hashing, multi-layer caching
 - 🤖 **[agent-forge](https://github.com/venkateshwarreddyr/agent-forge)** - Production multi-agent platform - supervisor routing, cost tracking
 - 🌐 **[browser-copilot](https://github.com/venkateshwarreddyr/browser-copilot)** - Agentic browser automation - plan-approve-execute loop
-- 🛩️ **[vpilot](https://github.com/venkateshwarreddyr/vpilot)** - Vision AI browser control - HTML-to-Markdown screen analysis, **Azure Functions** serverless backend, FastAPI
 - 🏗️ **[project-orchestrator](https://github.com/venkateshwarreddyr/project-orchestrator)** - Multi-agent code generation - coder + reviewer agents, auto-review loop, LangGraph orchestration
 - 🧩 **[x-skills-for-ai](https://github.com/venkateshwarreddyr/x-skills-for-ai)** - Reusable AI agent skill runtime - framework-agnostic, intention-based routing · [npm core](https://www.npmjs.com/package/@x-skills-for-ai/core) · [npm react](https://www.npmjs.com/package/@x-skills-for-ai/react)
 - 📋 **[resume-job-matcher](https://github.com/venkateshwarreddyr/resume-job-matcher)** - RAG-powered resume analysis - match score, skill gaps, interview tips & salary estimate
