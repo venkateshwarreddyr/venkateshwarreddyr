@@ -1,10 +1,18 @@
-<img align="right" src="medals/image.png" alt="Medals" width="380" />
-<br>
-<br>
-<br>
+
+<table align="right">
+  <tr>
+    <td><a href="https://leetcode.com/venkateshwarreddyr"><img src="./medals/output_1.png" height="180" alt="LeetCode profile medal" /></a></td>
+    <td><a href="https://www.hackerrank.com/profile/venkateshwarredd"><img src="./medals/output_2.png" height="180" alt="HackerRank profile medal" /></a></td>
+    <td><a href="https://www.khanacademy.org/profile/venkateshwarreddyr/"><img src="./medals/output_3.png" height="180" alt="Khan Academy profile medal" /></a></td>
+  </tr>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Hi, I'm Venkat 👋
-
 <br clear="right" />
 
 📍 **Hyderabad, India** | ☁️ **Azure / AWS & AI Architect** | 🤖 **Agentic AI Systems** | **8+ Years**
@@ -117,6 +125,12 @@ Real Estate Tech · Healthcare / Pharma · E-commerce · Enterprise SaaS
 - 🤖 **Agentic AI platforms** - multi-agent orchestration, LangGraph supervisor patterns, RAG pipelines
 - 🔗 **Event-driven systems** - queue-based pipelines, Redis Pub/Sub, SSE, real-time AI backends
 - 🧠 **LLM integrations** - MCP, structured outputs, tool calling, multi-cloud AI strategies
+
+## Profile Links
+
+- [GitHub](https://github.com/venkateshwarreddyr)
+- [Khan Academy](https://www.khanacademy.org/profile/venkateshwarreddyr/)
+- [HackerRank](https://www.hackerrank.com/profile/venkateshwarredd)
 
 ## Connect
 
