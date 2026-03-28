@@ -1,9 +1,15 @@
 
-<table align="right">
+<table align="right" border="0" cellpadding="0" cellspacing="0" role="presentation">
   <tr>
-    <td><a href="https://leetcode.com/venkateshwarreddyr"><img src="./medals/output_1.png" height="180" alt="LeetCode profile medal" /></a></td>
-    <td><a href="https://www.hackerrank.com/profile/venkateshwarredd"><img src="./medals/output_2.png" height="180" alt="HackerRank profile medal" /></a></td>
-    <td><a href="https://www.khanacademy.org/profile/venkateshwarreddyr/"><img src="./medals/output_3.png" height="180" alt="Khan Academy profile medal" /></a></td>
+    <td style="border: 0; padding: 0;">
+      <a href="https://leetcode.com/venkateshwarreddyr"><img src="./medals/output_1.png" height="180" alt="LeetCode profile medal" /></a>
+    </td>
+    <td style="border: 0; padding: 0;">
+      <a href="https://www.hackerrank.com/profile/venkateshwarredd"><img src="./medals/output_2.png" height="180" alt="HackerRank profile medal" /></a>
+    </td>
+    <td style="border: 0; padding: 0;">
+      <a href="https://www.khanacademy.org/profile/venkateshwarreddyr/"><img src="./medals/output_3.png" height="180" alt="Khan Academy profile medal" /></a>
+    </td>
   </tr>
 </table>
 <br />
