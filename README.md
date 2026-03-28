@@ -1,6 +1,6 @@
 
 <a href="https://leetcode.com/venkateshwarreddyr">
-  <img align="right" src="./medals/medals_strip.png" height="150" alt="LeetCode, HackerRank, and Khan Academy medals" />
+  <img align="right" src="./medals/image.png" height="150" alt="LeetCode, HackerRank, and Khan Academy medals" />
 </a>
 <br />
 <br />
