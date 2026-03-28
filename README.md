@@ -1,9 +1,12 @@
 
-<p align="right">
-  <a href="https://leetcode.com/venkateshwarreddyr">
-    <img src="./medals/medals_strip.png" height="150" alt="LeetCode, HackerRank, and Khan Academy medals" />
-  </a>
-</p>
+<a href="https://leetcode.com/venkateshwarreddyr">
+  <img align="right" src="./medals/medals_strip.png" height="150" alt="LeetCode, HackerRank, and Khan Academy medals" />
+</a>
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Hi, I'm Venkat 👋
 <br clear="right" />
