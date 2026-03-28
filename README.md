@@ -1,4 +1,12 @@
+<img align="right" src="medals/image.png" alt="Medals" width="380" />
+<br>
+<br>
+<br>
+<br>
+
 # Hi, I'm Venkat 👋
+
+<br clear="right" />
 
 📍 **Hyderabad, India** | ☁️ **Azure / AWS & AI Architect** | 🤖 **Agentic AI Systems** | **8+ Years**
 
@@ -116,3 +124,4 @@ Real Estate Tech · Healthcare / Pharma · E-commerce · Enterprise SaaS
 [![LinkedIn](https://img.shields.io/badge/-venkateshwarreddyr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateshwarreddyr)
 [![LeetCode](https://img.shields.io/badge/-venkateshwarreddyr-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/venkateshwarreddyr)
 [![Email](https://img.shields.io/badge/-venkateshwarreddyr@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:venkateshwarreddyr@outlook.com)
+[![GitHub](https://img.shields.io/badge/-venkateshwarreddyr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/venkateshwarreddyr)
