@@ -5,7 +5,7 @@
 <br />
 <br />
 
-# Venkat — Cloud & Agentic AI Architect
+# Venkat - Cloud & Agentic AI Architect
 
 📍 Hyderabad, India · **8+ years** building production Azure/AWS platforms and multi-agent AI systems for legal, healthcare, and SaaS teams.
 
